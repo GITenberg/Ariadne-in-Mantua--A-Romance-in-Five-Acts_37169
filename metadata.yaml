@@ -1,0 +1,30 @@
+_repo: Ariadne-in-Mantua--A-Romance-in-Five-Acts_37169
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Vernon
+    alias: Paget, Violet
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2683'
+    url: http://www.gutenberg.org/2009/agents/2683
+    wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
+description: ''
+gutenberg_issued: '2011-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Drama'
+- !lcsh 'Courts and courtiers -- Drama'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Drama'
+title: 'Ariadne in Mantua: A Romance in Five Acts'
+url: http://www.gutenberg.org/ebooks/37169
